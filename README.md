@@ -103,8 +103,8 @@ event MessageReceived(
 
 ## Deployed Contracts
 
-- **Sepolia:** [Sepolia DApp](https://sepolia.etherscan.io/address/0x533378eCb7384d70d97e6A68C02137F894c3aa47)
-- 
-- **Bsc:** [Bsc DApp](https://testnet.bscscan.com/address/0xa140c305EA4F9F9b962354FE54e6D4C0417912D5)
+[Sepolia DApp](https://sepolia.etherscan.io/address/0x533378eCb7384d70d97e6A68C02137F894c3aa47)
+
+[Bsc DApp](https://testnet.bscscan.com/address/0xa140c305EA4F9F9b962354FE54e6D4C0417912D5)
 
 
