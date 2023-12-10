@@ -108,3 +108,13 @@ event MessageReceived(
 [Bsc DApp](https://testnet.bscscan.com/address/0xa140c305EA4F9F9b962354FE54e6D4C0417912D5)
 
 
+## Additional Cross-Chain Interoperability Protocol (Layer Zero)
+
+Check out another cross-chain interoperability protocol layer zero codebase, designed to enhance decentralized communication between different blockchain networks. This protocol complements the functionality provided by xCall in this repository.
+
+[Link to Layer Zero Codebase](https://github.com/KoxyG/CrossChainLayerZero/settings)
+
+Feel free to explore and compare the features of both implementations for a more comprehensive understanding of cross-chain interoperability.
+
+
+
