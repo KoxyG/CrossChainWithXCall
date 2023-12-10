@@ -112,7 +112,7 @@ event MessageReceived(
 
 Check out another cross-chain interoperability protocol layer zero codebase, designed to enhance decentralized communication between different blockchain networks. This protocol complements the functionality provided by xCall in this repository.
 
-[Link to Layer Zero Codebase](https://github.com/KoxyG/CrossChainLayerZero/settings)
+[Link to Layer Zero Codebase](https://github.com/KoxyG/CrossChainLayerZero)
 
 Feel free to explore and compare the features of both implementations for a more comprehensive understanding of cross-chain interoperability.
 
