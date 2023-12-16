@@ -4,8 +4,8 @@ async function main() {
   console.log("Initializing contracts with the account:", deployer.address);
 
   // Replace these with the actual contract addresses on the target network
-  const xCallETHAddress = "0x533378eCb7384d70d97e6A68C02137F894c3aa47";
-  const xCallBSCAddress = "0xa140c305EA4F9F9b962354FE54e6D4C0417912D5";
+  const xCallETHAddress = "0x699EcC0C83c88AB24ad1c252e608Dd84Bb18Fe70";
+  const xCallBSCAddress = "0x83231d620894016abA2164411f7b96a3fDb7f41A";
 
   // Initialize xCallETH contract
   if (network.name === "sepolia") {

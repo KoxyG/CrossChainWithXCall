@@ -57,9 +57,9 @@ contract xCallETH {
     }
 
    
-    if (!compareTo(destinationAddress, _from)) {
-      revert("InvalidFrom");
-    }
+    // if (!compareTo(destinationAddress, _from)) {
+    //   revert("InvalidFrom");
+    // }
 
     
     string memory msgData = string(_data);
@@ -67,10 +67,10 @@ contract xCallETH {
    
     emit MessageReceived(_from, msgData);
 
-    if (compareTo("executeRollback", msgData)) {
-      emit RollbackDataReceived(_from, msgData);
-      revert("ExecuteRollback");
-    }
+    // if (compareTo("executeRollback", msgData)) {
+    //   emit RollbackDataReceived(_from, msgData);
+    //   revert("ExecuteRollback");
+    // }
   }
 
   event MessageReceived(
